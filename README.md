@@ -22,5 +22,5 @@
 
 ### 📫 How to reach me
 - 📧 dhruvchauhandelhi@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/dhruv-singh) *(add when ready)*
+- 💼 [LinkedIn](https://linkedin.com/in/dhruv-singh-4663a4374) *(add when ready)*
 
