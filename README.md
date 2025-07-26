@@ -15,12 +15,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### 📈 GitHub Stats
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvchauhandelh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchauhandelh&layout=compact&theme=radical)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvsingh72&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsingh72&layout=compact&theme=radical)
 
 ---
 
 ### 📫 How to reach me
-- 📧 dhruvchauhandelh@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) *(add when ready)*
+- 📧 dhruvchauhandelhi@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/dhruv-singh) *(add when ready)*
 
