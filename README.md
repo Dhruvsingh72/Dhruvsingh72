@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Dhruv 👋
 
-<!--
-**Dhruvsingh72/Dhruvsingh72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student @ DSEU  
+💻 Passionate about Web Development & Data Science  
+🌱 Currently learning Java, Python, and ML  
+📊 Building projects using APIs, MySQL, and Pandas  
+🛠️ Skills: HTML | CSS | JS | SQL | EXCEL| POWER BI | Python | MySQL
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvchauhandelh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchauhandelh&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me
+- 📧 dhruvchauhandelh@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) *(add when ready)*
+
